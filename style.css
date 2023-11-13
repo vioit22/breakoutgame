@@ -1,0 +1,19 @@
+body{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url('https://wallpaperaccess.com/full/2998945.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+#game{
+    background: transparent;
+    margin-top: 6rem;
+    margin-left: 0rem;
+    border: 1px solid black;
+    border-style: outset;
+    color: rgb(0, 119, 255);
+}
